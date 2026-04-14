@@ -1,6 +1,8 @@
 # vim-rascript
 
-Neovim plugin providing syntax highlighting and filetype detection for RAScript files (RetroAchievements achievement scripts).
+Vim plugin providing syntax highlighting and filetype detection for RAScript files (RetroAchievements scripts).
+
+![Highlighted RAScript Example](./assets/example.png)
 
 ## Features
 
